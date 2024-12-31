@@ -1,3 +1,7 @@
 yadri
 uprety
+<<<<<<< HEAD
 tanisha
+=======
+idkk if i want it in master
+>>>>>>> target
